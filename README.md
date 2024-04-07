@@ -25,9 +25,8 @@ The project follows a structured approach with the following directory layout:
 
 - `data/`: Contains the dataset used for analysis.
 - `notebooks/`: Includes Jupyter notebooks for data exploration, preprocessing, and model development.
-- `src/`: Contains Python scripts for model training, evaluation, and deployment.
 - `README.md`: Provides an overview of the project, its structure, and instructions for usage.
-- `requirements.txt`: Lists all dependencies required to run the project.
+
 
 ## Dataset
 
